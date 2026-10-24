@@ -1,0 +1,5 @@
+2026-10-23 11:00:00 INFO OrderService - Request received
+2026-10-23 11:00:01 ERROR OrderService - Temporary upstream timeout
+2026-10-23 11:00:02 WARN OrderService - Retrying request
+2026-10-23 11:00:03 INFO OrderService - Request completed successfully
+  
